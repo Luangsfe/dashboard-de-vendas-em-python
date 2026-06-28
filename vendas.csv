@@ -1,0 +1,501 @@
+﻿Data,Pedido,Cliente,Produto,Categoria,Quantidade,Valor Unitário,Custo Unitário,Vendedor,Estado,Forma de Pagamento
+2025-11-24,1001,Maria Souza,Notebook Dell,Informática,3,4270.4,3600,Fernanda,SP,Boleto
+2025-10-07,1002,Maria Souza,Impressora HP,Informática,4,806.66,650,Carlos,ES,PIX
+2025-09-16,1003,Mariana Melo,Notebook Dell,Informática,5,4228.95,3600,Patrícia,BA,PIX
+2025-08-18,1004,Mariana Melo,Headset Gamer,Periféricos,1,368.12,220,Fernanda,BA,Cartão
+2025-05-23,1005,Lucas Lima,Teclado Mecânico,Periféricos,3,257.72,180,Ricardo,SP,Cartão
+2025-06-26,1006,Mariana Melo,Headset Gamer,Periféricos,1,366.08,220,Patrícia,SP,Cartão
+2025-02-10,1007,Rafael Gomes,Headset Gamer,Periféricos,5,376.98,220,Juliana,ES,Boleto
+2025-02-05,1008,João Silva,Teclado Mecânico,Periféricos,3,307.17,180,Fernanda,SP,Cartão
+2025-05-23,1009,Camila Dias,SSD 1TB,Hardware,2,467.54,310,Fernanda,PR,Boleto
+2025-12-16,1010,Felipe Santos,Notebook Lenovo,Informática,5,4313.38,3350,Patrícia,ES,PIX
+2025-08-25,1011,Bruno Rocha,Headset Gamer,Periféricos,5,330.37,220,Juliana,RJ,PIX
+2025-01-17,1012,Gabriel Costa,SSD 1TB,Hardware,4,457.7,310,Fernanda,SC,PIX
+2025-12-02,1013,Camila Dias,Memória RAM 16GB,Hardware,4,297.14,210,Fernanda,ES,Boleto
+2025-10-15,1014,Rafael Gomes,Headset Gamer,Periféricos,5,344.99,220,Patrícia,BA,Cartão
+2025-04-23,1015,Lucas Lima,Webcam HD,Periféricos,4,165.27,95,Carlos,SP,PIX
+2025-11-18,1016,Lucas Lima,Memória RAM 16GB,Hardware,5,292.07,210,Ricardo,GO,Boleto
+2025-05-09,1017,Rafael Gomes,Notebook Dell,Informática,1,4663.54,3600,Patrícia,PR,Boleto
+2025-06-24,1018,Maria Souza,Headset Gamer,Periféricos,4,326.07,220,Carlos,PR,Boleto
+2025-04-02,1019,Rafael Gomes,Notebook Lenovo,Informática,3,4487.0,3350,Patrícia,ES,PIX
+2025-07-11,1020,Gabriel Costa,Mouse Logitech,Periféricos,5,130.88,70,Patrícia,RJ,Boleto
+2025-06-15,1021,Camila Dias,Notebook Dell,Informática,1,4886.19,3600,Juliana,ES,PIX
+2025-05-04,1022,Thiago Souza,Impressora HP,Informática,1,816.25,650,Ricardo,SP,Boleto
+2025-03-06,1023,Lucas Lima,Monitor LG 24,Informática,5,914.36,700,Patrícia,BA,PIX
+2025-10-04,1024,Gabriel Costa,Teclado Mecânico,Periféricos,3,274.34,180,Juliana,GO,Boleto
+2025-08-20,1025,Maria Souza,Teclado Mecânico,Periféricos,2,255.59,180,Carlos,ES,Boleto
+2025-04-23,1026,João Silva,Notebook Lenovo,Informática,1,3972.31,3350,Carlos,SC,PIX
+2025-09-21,1027,Ana Costa,Headset Gamer,Periféricos,4,330.0,220,Fernanda,GO,PIX
+2025-08-31,1028,Gabriel Costa,Memória RAM 16GB,Hardware,2,294.04,210,Ricardo,SC,Cartão
+2025-07-30,1029,Camila Dias,Notebook Dell,Informática,1,4104.55,3600,Juliana,SP,PIX
+2025-04-09,1030,Ana Costa,Webcam HD,Periféricos,4,167.05,95,Fernanda,PR,Cartão
+2025-05-08,1031,Larissa Lima,Notebook Lenovo,Informática,4,4458.74,3350,Patrícia,SP,PIX
+2025-11-30,1032,Rafael Gomes,Notebook Dell,Informática,1,4883.73,3600,Fernanda,MG,Cartão
+2025-09-06,1033,Camila Dias,Teclado Mecânico,Periféricos,4,302.54,180,Fernanda,BA,PIX
+2025-07-19,1034,Pedro Alves,Monitor LG 24,Informática,3,964.91,700,Patrícia,GO,PIX
+2025-04-08,1035,Pedro Alves,Teclado Mecânico,Periféricos,1,284.43,180,Patrícia,RJ,Boleto
+2025-06-10,1036,João Silva,Notebook Dell,Informática,5,4479.11,3600,Patrícia,MG,PIX
+2025-09-18,1037,Maria Souza,Mouse Logitech,Periféricos,1,122.28,70,Fernanda,BA,PIX
+2025-10-19,1038,Ana Costa,Impressora HP,Informática,5,808.07,650,Carlos,BA,Boleto
+2025-10-26,1039,Mariana Melo,Webcam HD,Periféricos,3,195.65,95,Fernanda,SC,PIX
+2025-05-16,1040,Bruno Rocha,Mouse Logitech,Periféricos,3,118.97,70,Carlos,RJ,Cartão
+2025-11-15,1041,Mariana Melo,Notebook Lenovo,Informática,1,4231.61,3350,Patrícia,PR,PIX
+2025-06-28,1042,Thiago Souza,Notebook Lenovo,Informática,2,4090.4,3350,Fernanda,GO,Boleto
+2025-12-27,1043,Pedro Alves,Impressora HP,Informática,5,802.39,650,Patrícia,PR,Boleto
+2025-02-23,1044,Thiago Souza,Mouse Logitech,Periféricos,3,110.77,70,Carlos,MG,Cartão
+2025-05-25,1045,Mariana Melo,Teclado Mecânico,Periféricos,3,263.4,180,Juliana,GO,Cartão
+2025-01-27,1046,Maria Souza,Memória RAM 16GB,Hardware,3,290.82,210,Juliana,MG,Boleto
+2025-05-15,1047,Lucas Lima,Monitor LG 24,Informática,5,1020.31,700,Patrícia,RJ,PIX
+2025-02-08,1048,Thiago Souza,Mouse Logitech,Periféricos,5,108.86,70,Juliana,MG,Cartão
+2025-03-07,1049,João Silva,Headset Gamer,Periféricos,3,377.93,220,Carlos,SC,PIX
+2025-12-16,1050,Ana Costa,Notebook Lenovo,Informática,3,4435.3,3350,Ricardo,MG,PIX
+2025-03-25,1051,Gabriel Costa,Mouse Logitech,Periféricos,4,108.59,70,Juliana,BA,Boleto
+2025-05-08,1052,Pedro Alves,Mouse Logitech,Periféricos,1,117.18,70,Carlos,GO,PIX
+2025-04-13,1053,Larissa Lima,Monitor LG 24,Informática,3,941.82,700,Fernanda,ES,PIX
+2025-12-04,1054,Ana Costa,Memória RAM 16GB,Hardware,3,305.83,210,Carlos,PR,Cartão
+2025-11-25,1055,Rafael Gomes,Memória RAM 16GB,Hardware,5,309.19,210,Carlos,SP,Cartão
+2025-04-02,1056,Mariana Melo,Headset Gamer,Periféricos,1,322.59,220,Ricardo,SC,Boleto
+2025-06-10,1057,Bruno Rocha,Impressora HP,Informática,5,821.58,650,Patrícia,ES,Cartão
+2025-01-23,1058,Beatriz Rocha,Memória RAM 16GB,Hardware,1,321.27,210,Patrícia,ES,Cartão
+2025-08-09,1059,Maria Souza,SSD 1TB,Hardware,5,462.14,310,Carlos,PR,Boleto
+2025-06-08,1060,Felipe Santos,Memória RAM 16GB,Hardware,3,313.75,210,Juliana,MG,PIX
+2025-08-04,1061,Felipe Santos,Memória RAM 16GB,Hardware,2,327.39,210,Juliana,BA,Boleto
+2025-01-01,1062,Pedro Alves,Headset Gamer,Periféricos,2,345.09,220,Patrícia,SC,Cartão
+2025-08-15,1063,Camila Dias,Teclado Mecânico,Periféricos,5,278.5,180,Fernanda,SP,Cartão
+2025-09-21,1064,Felipe Santos,Impressora HP,Informática,3,817.62,650,Fernanda,PR,PIX
+2025-04-12,1065,Lucas Lima,Notebook Dell,Informática,1,4270.36,3600,Ricardo,SP,Cartão
+2025-08-01,1066,Thiago Souza,Impressora HP,Informática,2,928.87,650,Ricardo,GO,Cartão
+2025-05-05,1067,Lucas Lima,Notebook Dell,Informática,1,4750.58,3600,Fernanda,MG,Boleto
+2025-09-23,1068,Camila Dias,Notebook Dell,Informática,5,4274.28,3600,Carlos,GO,PIX
+2025-08-26,1069,Felipe Santos,Webcam HD,Periféricos,5,183.44,95,Ricardo,BA,Boleto
+2025-08-17,1070,Thiago Souza,Mouse Logitech,Periféricos,4,118.8,70,Fernanda,PR,Boleto
+2025-09-06,1071,Felipe Santos,Teclado Mecânico,Periféricos,3,276.63,180,Juliana,ES,Cartão
+2025-06-21,1072,Julia Martins,Webcam HD,Periféricos,1,166.98,95,Fernanda,BA,Boleto
+2025-03-20,1073,Beatriz Rocha,Teclado Mecânico,Periféricos,1,275.23,180,Juliana,GO,Cartão
+2025-02-01,1074,Ana Costa,Memória RAM 16GB,Hardware,4,345.91,210,Patrícia,RJ,Boleto
+2025-07-14,1075,Camila Dias,Notebook Dell,Informática,3,4318.75,3600,Ricardo,BA,Boleto
+2025-10-07,1076,Gabriel Costa,Impressora HP,Informática,2,887.9,650,Juliana,BA,Cartão
+2025-01-15,1077,Bruno Rocha,SSD 1TB,Hardware,4,501.52,310,Ricardo,MG,Boleto
+2025-10-01,1078,João Silva,Memória RAM 16GB,Hardware,5,324.12,210,Carlos,SP,Boleto
+2025-08-08,1079,Lucas Lima,Monitor LG 24,Informática,2,891.86,700,Ricardo,SC,PIX
+2025-08-21,1080,Julia Martins,SSD 1TB,Hardware,4,458.71,310,Ricardo,PR,PIX
+2025-08-29,1081,João Silva,Webcam HD,Periféricos,1,198.0,95,Juliana,ES,Boleto
+2025-02-05,1082,Gabriel Costa,Notebook Dell,Informática,1,4904.65,3600,Fernanda,RJ,Boleto
+2025-03-20,1083,Ana Costa,Mouse Logitech,Periféricos,4,124.07,70,Patrícia,ES,Cartão
+2025-12-25,1084,Pedro Alves,SSD 1TB,Hardware,2,490.17,310,Carlos,MG,Cartão
+2025-02-25,1085,Mariana Melo,Notebook Dell,Informática,3,4568.22,3600,Ricardo,BA,Boleto
+2025-04-12,1086,Maria Souza,Impressora HP,Informática,2,819.14,650,Juliana,SP,Boleto
+2025-01-22,1087,Julia Martins,Webcam HD,Periféricos,4,185.81,95,Carlos,SC,PIX
+2025-08-04,1088,Larissa Lima,Monitor LG 24,Informática,1,966.97,700,Juliana,GO,Boleto
+2025-03-20,1089,Bruno Rocha,Mouse Logitech,Periféricos,5,131.17,70,Juliana,GO,Cartão
+2025-08-12,1090,Larissa Lima,Impressora HP,Informática,3,858.37,650,Fernanda,SP,Cartão
+2025-08-19,1091,Ana Costa,Monitor LG 24,Informática,5,1001.63,700,Ricardo,SC,PIX
+2025-09-11,1092,Larissa Lima,SSD 1TB,Hardware,2,478.8,310,Juliana,PR,Cartão
+2025-05-24,1093,Thiago Souza,Impressora HP,Informática,3,899.93,650,Patrícia,ES,PIX
+2025-05-04,1094,Beatriz Rocha,Memória RAM 16GB,Hardware,4,323.53,210,Fernanda,GO,Boleto
+2025-12-31,1095,Camila Dias,Monitor LG 24,Informática,1,900.24,700,Fernanda,BA,Boleto
+2025-05-05,1096,Pedro Alves,Impressora HP,Informática,3,885.24,650,Patrícia,SC,Cartão
+2025-10-09,1097,Julia Martins,SSD 1TB,Hardware,4,458.01,310,Juliana,ES,PIX
+2025-04-09,1098,Julia Martins,Notebook Lenovo,Informática,5,4578.74,3350,Fernanda,ES,PIX
+2025-09-05,1099,Pedro Alves,Impressora HP,Informática,5,907.23,650,Carlos,ES,Cartão
+2025-04-27,1100,Julia Martins,Mouse Logitech,Periféricos,3,108.34,70,Patrícia,MG,Cartão
+2025-01-24,1101,João Silva,Webcam HD,Periféricos,3,187.11,95,Fernanda,GO,PIX
+2025-01-07,1102,Mariana Melo,Headset Gamer,Periféricos,4,348.51,220,Juliana,MG,PIX
+2025-05-10,1103,Larissa Lima,Monitor LG 24,Informática,1,1043.13,700,Ricardo,GO,PIX
+2025-10-23,1104,Felipe Santos,Notebook Dell,Informática,2,4184.28,3600,Patrícia,PR,PIX
+2025-05-08,1105,Maria Souza,Webcam HD,Periféricos,4,183.83,95,Patrícia,ES,Boleto
+2025-07-14,1106,Camila Dias,Monitor LG 24,Informática,3,1050.59,700,Ricardo,PR,Boleto
+2025-11-14,1107,João Silva,Impressora HP,Informática,1,969.67,650,Fernanda,ES,Cartão
+2025-12-05,1108,Maria Souza,Mouse Logitech,Periféricos,2,112.17,70,Carlos,MG,PIX
+2025-07-29,1109,Camila Dias,Impressora HP,Informática,4,852.84,650,Fernanda,PR,Boleto
+2025-05-25,1110,Beatriz Rocha,Monitor LG 24,Informática,1,1016.73,700,Juliana,ES,Cartão
+2025-02-28,1111,Rafael Gomes,Teclado Mecânico,Periféricos,2,302.87,180,Fernanda,SP,PIX
+2025-03-26,1112,Gabriel Costa,Headset Gamer,Periféricos,5,367.43,220,Patrícia,PR,Cartão
+2025-03-05,1113,Camila Dias,Headset Gamer,Periféricos,4,380.99,220,Patrícia,GO,Cartão
+2025-02-11,1114,Mariana Melo,Notebook Dell,Informática,4,4711.08,3600,Patrícia,PR,PIX
+2025-02-16,1115,Ana Costa,Impressora HP,Informática,5,970.24,650,Juliana,RJ,PIX
+2025-08-29,1116,Rafael Gomes,Monitor LG 24,Informática,3,917.57,700,Patrícia,BA,Boleto
+2025-09-09,1117,Maria Souza,Monitor LG 24,Informática,3,962.04,700,Juliana,SP,PIX
+2025-06-18,1118,Bruno Rocha,Monitor LG 24,Informática,3,1011.87,700,Ricardo,RJ,Cartão
+2025-02-15,1119,Julia Martins,Headset Gamer,Periféricos,3,323.11,220,Ricardo,RJ,Boleto
+2025-10-05,1120,Camila Dias,Memória RAM 16GB,Hardware,1,300.01,210,Juliana,GO,Boleto
+2025-08-15,1121,Gabriel Costa,Notebook Dell,Informática,2,4290.35,3600,Fernanda,PR,Cartão
+2025-12-24,1122,Camila Dias,Notebook Lenovo,Informática,1,4597.44,3350,Patrícia,ES,Boleto
+2025-03-23,1123,Pedro Alves,Webcam HD,Periféricos,1,181.88,95,Carlos,ES,PIX
+2025-08-25,1124,Maria Souza,Mouse Logitech,Periféricos,4,130.38,70,Juliana,PR,Cartão
+2025-09-05,1125,Camila Dias,Teclado Mecânico,Periféricos,4,282.87,180,Ricardo,ES,Boleto
+2025-09-18,1126,Beatriz Rocha,Mouse Logitech,Periféricos,1,114.63,70,Ricardo,SC,Boleto
+2025-05-17,1127,Larissa Lima,Notebook Dell,Informática,3,4703.45,3600,Patrícia,GO,PIX
+2025-08-17,1128,Rafael Gomes,Monitor LG 24,Informática,3,947.16,700,Patrícia,BA,Cartão
+2025-06-14,1129,Larissa Lima,Teclado Mecânico,Periféricos,2,284.02,180,Fernanda,BA,PIX
+2025-06-12,1130,Beatriz Rocha,Monitor LG 24,Informática,4,957.67,700,Fernanda,GO,PIX
+2025-03-06,1131,Rafael Gomes,Impressora HP,Informática,3,955.81,650,Ricardo,SP,Boleto
+2025-08-22,1132,João Silva,Mouse Logitech,Periféricos,4,128.9,70,Fernanda,SP,Cartão
+2025-05-16,1133,Julia Martins,Impressora HP,Informática,4,916.67,650,Juliana,BA,Cartão
+2025-11-17,1134,Beatriz Rocha,Monitor LG 24,Informática,5,889.04,700,Carlos,ES,Boleto
+2025-12-17,1135,Thiago Souza,Headset Gamer,Periféricos,2,367.27,220,Ricardo,SP,Boleto
+2025-12-27,1136,Larissa Lima,Notebook Lenovo,Informática,4,3919.75,3350,Juliana,RJ,PIX
+2025-06-16,1137,Gabriel Costa,Notebook Dell,Informática,3,4372.62,3600,Ricardo,MG,PIX
+2025-09-29,1138,Bruno Rocha,Impressora HP,Informática,2,831.26,650,Carlos,BA,Boleto
+2025-12-16,1139,Ana Costa,Monitor LG 24,Informática,5,910.05,700,Ricardo,PR,Cartão
+2025-05-11,1140,Felipe Santos,Notebook Dell,Informática,4,4861.09,3600,Patrícia,MG,PIX
+2025-08-15,1141,Julia Martins,Impressora HP,Informática,3,914.73,650,Ricardo,PR,Cartão
+2025-06-04,1142,Ana Costa,Memória RAM 16GB,Hardware,4,294.83,210,Ricardo,SC,Boleto
+2025-06-01,1143,Beatriz Rocha,Headset Gamer,Periféricos,1,383.46,220,Ricardo,PR,PIX
+2025-10-17,1144,Larissa Lima,Notebook Dell,Informática,5,4720.65,3600,Juliana,ES,Boleto
+2025-06-30,1145,Ana Costa,Teclado Mecânico,Periféricos,5,266.04,180,Fernanda,SP,Boleto
+2025-11-27,1146,João Silva,Headset Gamer,Periféricos,4,317.34,220,Juliana,MG,PIX
+2025-06-01,1147,Julia Martins,Memória RAM 16GB,Hardware,2,300.85,210,Patrícia,SC,Boleto
+2025-09-14,1148,Thiago Souza,Headset Gamer,Periféricos,2,332.99,220,Ricardo,PR,Boleto
+2025-06-23,1149,Gabriel Costa,Notebook Lenovo,Informática,4,4588.83,3350,Fernanda,ES,Boleto
+2025-12-12,1150,Bruno Rocha,Webcam HD,Periféricos,3,165.25,95,Ricardo,RJ,Cartão
+2025-10-02,1151,Maria Souza,Monitor LG 24,Informática,3,1013.87,700,Juliana,BA,Boleto
+2025-07-10,1152,Maria Souza,Teclado Mecânico,Periféricos,4,253.4,180,Patrícia,SC,Boleto
+2025-04-24,1153,Felipe Santos,Notebook Lenovo,Informática,4,4543.89,3350,Juliana,BA,PIX
+2025-03-13,1154,João Silva,Notebook Dell,Informática,3,4946.33,3600,Carlos,SP,PIX
+2025-10-03,1155,Lucas Lima,Memória RAM 16GB,Hardware,4,311.74,210,Patrícia,BA,Boleto
+2025-03-21,1156,Thiago Souza,Memória RAM 16GB,Hardware,1,341.36,210,Patrícia,BA,Cartão
+2025-01-17,1157,Beatriz Rocha,SSD 1TB,Hardware,2,474.56,310,Fernanda,SC,PIX
+2025-12-18,1158,Julia Martins,Webcam HD,Periféricos,3,164.18,95,Juliana,ES,PIX
+2025-08-21,1159,Maria Souza,Teclado Mecânico,Periféricos,5,306.38,180,Carlos,SC,PIX
+2025-03-06,1160,Gabriel Costa,Impressora HP,Informática,2,813.21,650,Patrícia,ES,Boleto
+2025-04-21,1161,Larissa Lima,Teclado Mecânico,Periféricos,3,295.36,180,Patrícia,RJ,Cartão
+2025-03-16,1162,Lucas Lima,Webcam HD,Periféricos,3,190.75,95,Carlos,RJ,PIX
+2025-01-08,1163,Julia Martins,Teclado Mecânico,Periféricos,5,270.13,180,Fernanda,PR,PIX
+2025-03-06,1164,Beatriz Rocha,Memória RAM 16GB,Hardware,5,295.27,210,Carlos,GO,Cartão
+2025-07-05,1165,Rafael Gomes,Impressora HP,Informática,1,881.46,650,Fernanda,RJ,Boleto
+2025-12-04,1166,Rafael Gomes,Headset Gamer,Periféricos,4,360.03,220,Carlos,RJ,Cartão
+2025-07-25,1167,Bruno Rocha,Notebook Lenovo,Informática,4,4378.42,3350,Ricardo,SP,PIX
+2025-06-14,1168,Mariana Melo,Mouse Logitech,Periféricos,1,111.03,70,Patrícia,SC,Cartão
+2025-11-02,1169,Rafael Gomes,Headset Gamer,Periféricos,4,350.39,220,Ricardo,SP,Boleto
+2025-02-28,1170,Larissa Lima,Webcam HD,Periféricos,2,177.48,95,Fernanda,BA,Cartão
+2025-08-21,1171,Bruno Rocha,Memória RAM 16GB,Hardware,1,308.0,210,Juliana,PR,Cartão
+2025-03-20,1172,Felipe Santos,Monitor LG 24,Informática,1,899.88,700,Carlos,SP,Cartão
+2025-02-19,1173,Beatriz Rocha,SSD 1TB,Hardware,2,485.41,310,Patrícia,SC,Boleto
+2025-03-04,1174,Bruno Rocha,SSD 1TB,Hardware,4,515.34,310,Carlos,PR,Boleto
+2025-06-09,1175,Julia Martins,Notebook Lenovo,Informática,5,4206.23,3350,Fernanda,GO,PIX
+2025-02-25,1176,Julia Martins,Webcam HD,Periféricos,3,166.14,95,Juliana,ES,Cartão
+2025-10-15,1177,Gabriel Costa,Impressora HP,Informática,5,921.15,650,Patrícia,RJ,Boleto
+2025-12-03,1178,Larissa Lima,Headset Gamer,Periféricos,1,327.63,220,Juliana,SC,Cartão
+2025-01-04,1179,Lucas Lima,Mouse Logitech,Periféricos,5,123.78,70,Carlos,MG,Boleto
+2025-11-21,1180,João Silva,Notebook Lenovo,Informática,5,3960.71,3350,Ricardo,GO,Cartão
+2025-03-22,1181,Julia Martins,Headset Gamer,Periféricos,3,369.38,220,Patrícia,SP,PIX
+2025-03-21,1182,Lucas Lima,Impressora HP,Informática,1,920.97,650,Juliana,GO,Boleto
+2025-08-06,1183,Camila Dias,Impressora HP,Informática,4,874.72,650,Fernanda,SP,Cartão
+2025-08-09,1184,Maria Souza,Headset Gamer,Periféricos,5,349.06,220,Juliana,RJ,PIX
+2025-07-22,1185,Mariana Melo,Notebook Dell,Informática,1,4233.98,3600,Fernanda,MG,Cartão
+2025-05-29,1186,Julia Martins,Notebook Lenovo,Informática,1,4197.8,3350,Ricardo,MG,PIX
+2025-07-14,1187,Rafael Gomes,Teclado Mecânico,Periféricos,5,283.29,180,Juliana,SP,Cartão
+2025-01-22,1188,Bruno Rocha,Notebook Dell,Informática,4,4879.05,3600,Juliana,BA,Boleto
+2025-07-27,1189,Beatriz Rocha,Memória RAM 16GB,Hardware,3,295.37,210,Carlos,SC,PIX
+2025-11-13,1190,Camila Dias,SSD 1TB,Hardware,1,473.92,310,Carlos,ES,Cartão
+2025-10-29,1191,Bruno Rocha,Webcam HD,Periféricos,1,176.25,95,Juliana,SC,PIX
+2025-06-20,1192,Gabriel Costa,Mouse Logitech,Periféricos,1,120.25,70,Carlos,ES,Cartão
+2025-06-29,1193,Beatriz Rocha,Mouse Logitech,Periféricos,2,110.47,70,Juliana,ES,PIX
+2025-11-05,1194,Lucas Lima,Notebook Lenovo,Informática,2,4579.09,3350,Ricardo,GO,Boleto
+2025-10-24,1195,Camila Dias,Impressora HP,Informática,5,858.53,650,Juliana,MG,Cartão
+2025-02-04,1196,Camila Dias,Monitor LG 24,Informática,3,1038.08,700,Patrícia,RJ,Cartão
+2025-09-17,1197,Maria Souza,Headset Gamer,Periféricos,4,346.63,220,Carlos,SC,Cartão
+2025-02-09,1198,Felipe Santos,Notebook Lenovo,Informática,5,4279.03,3350,Ricardo,GO,Boleto
+2025-10-11,1199,Gabriel Costa,Notebook Dell,Informática,4,4868.14,3600,Patrícia,ES,Cartão
+2025-11-06,1200,Camila Dias,Webcam HD,Periféricos,2,196.48,95,Ricardo,SP,Cartão
+2025-02-13,1201,Rafael Gomes,Mouse Logitech,Periféricos,1,113.95,70,Ricardo,GO,Boleto
+2025-09-25,1202,Mariana Melo,Mouse Logitech,Periféricos,3,116.95,70,Juliana,BA,Cartão
+2025-06-23,1203,Felipe Santos,Impressora HP,Informática,1,941.48,650,Juliana,SP,Cartão
+2025-02-18,1204,Rafael Gomes,Memória RAM 16GB,Hardware,3,304.13,210,Patrícia,MG,Cartão
+2025-02-11,1205,Mariana Melo,Mouse Logitech,Periféricos,3,115.45,70,Ricardo,MG,Boleto
+2025-12-29,1206,Maria Souza,Headset Gamer,Periféricos,5,341.37,220,Juliana,MG,Boleto
+2025-12-26,1207,Larissa Lima,Webcam HD,Periféricos,1,185.26,95,Ricardo,SC,PIX
+2025-07-05,1208,Pedro Alves,Mouse Logitech,Periféricos,2,116.2,70,Ricardo,ES,PIX
+2025-03-12,1209,Lucas Lima,Notebook Lenovo,Informática,3,4489.32,3350,Carlos,RJ,Boleto
+2025-06-22,1210,Thiago Souza,Impressora HP,Informática,2,907.31,650,Fernanda,MG,PIX
+2025-12-21,1211,Gabriel Costa,Impressora HP,Informática,2,929.37,650,Carlos,BA,Cartão
+2025-12-13,1212,Beatriz Rocha,Teclado Mecânico,Periféricos,4,286.19,180,Ricardo,ES,Boleto
+2025-05-03,1213,Pedro Alves,Monitor LG 24,Informática,2,954.1,700,Patrícia,GO,Cartão
+2025-05-25,1214,Gabriel Costa,Memória RAM 16GB,Hardware,5,321.76,210,Fernanda,ES,Boleto
+2025-03-12,1215,Larissa Lima,Headset Gamer,Periféricos,1,359.88,220,Juliana,SP,Boleto
+2025-09-22,1216,Larissa Lima,Notebook Lenovo,Informática,3,3850.46,3350,Fernanda,PR,Cartão
+2025-09-20,1217,Lucas Lima,Memória RAM 16GB,Hardware,1,348.57,210,Fernanda,GO,Cartão
+2025-01-14,1218,Bruno Rocha,Notebook Dell,Informática,4,4501.81,3600,Fernanda,BA,PIX
+2025-07-11,1219,Ana Costa,Notebook Dell,Informática,3,4887.74,3600,Juliana,MG,PIX
+2025-01-20,1220,Pedro Alves,Monitor LG 24,Informática,2,1030.73,700,Ricardo,GO,Boleto
+2025-01-03,1221,Thiago Souza,Notebook Lenovo,Informática,1,3994.98,3350,Fernanda,BA,PIX
+2025-05-28,1222,Ana Costa,Headset Gamer,Periféricos,1,318.34,220,Ricardo,GO,PIX
+2025-02-26,1223,Larissa Lima,Monitor LG 24,Informática,5,987.07,700,Patrícia,ES,Boleto
+2025-03-15,1224,Pedro Alves,Memória RAM 16GB,Hardware,1,327.35,210,Fernanda,BA,PIX
+2025-12-07,1225,Felipe Santos,Notebook Lenovo,Informática,5,4598.71,3350,Carlos,RJ,Cartão
+2025-08-29,1226,João Silva,Memória RAM 16GB,Hardware,3,304.23,210,Carlos,SC,PIX
+2025-06-26,1227,Ana Costa,Notebook Lenovo,Informática,5,4397.56,3350,Juliana,MG,PIX
+2025-06-30,1228,Rafael Gomes,SSD 1TB,Hardware,2,511.72,310,Ricardo,GO,Boleto
+2025-04-04,1229,Gabriel Costa,Mouse Logitech,Periféricos,1,125.19,70,Ricardo,RJ,Cartão
+2025-04-14,1230,João Silva,Teclado Mecânico,Periféricos,1,269.67,180,Juliana,BA,Boleto
+2025-08-31,1231,Pedro Alves,Notebook Dell,Informática,2,4307.5,3600,Carlos,SC,Cartão
+2025-03-05,1232,Gabriel Costa,SSD 1TB,Hardware,4,517.39,310,Ricardo,BA,Cartão
+2025-04-06,1233,Camila Dias,Monitor LG 24,Informática,3,1063.16,700,Patrícia,PR,PIX
+2025-08-06,1234,Maria Souza,Memória RAM 16GB,Hardware,5,351.69,210,Fernanda,PR,Cartão
+2025-02-22,1235,Maria Souza,SSD 1TB,Hardware,3,461.42,310,Patrícia,BA,PIX
+2025-12-20,1236,Camila Dias,SSD 1TB,Hardware,4,436.07,310,Juliana,BA,Cartão
+2025-11-24,1237,Gabriel Costa,Notebook Dell,Informática,1,4654.07,3600,Ricardo,SC,Boleto
+2025-12-14,1238,Lucas Lima,Notebook Dell,Informática,2,4813.8,3600,Ricardo,RJ,PIX
+2025-02-04,1239,Ana Costa,SSD 1TB,Hardware,3,468.75,310,Patrícia,RJ,Boleto
+2025-03-20,1240,Felipe Santos,Monitor LG 24,Informática,3,954.91,700,Carlos,MG,Boleto
+2025-07-07,1241,Bruno Rocha,SSD 1TB,Hardware,3,455.96,310,Carlos,RJ,Boleto
+2025-04-06,1242,Camila Dias,Webcam HD,Periféricos,4,194.89,95,Carlos,PR,Cartão
+2025-12-27,1243,Camila Dias,Teclado Mecânico,Periféricos,5,267.99,180,Ricardo,ES,PIX
+2025-03-11,1244,Larissa Lima,Notebook Lenovo,Informática,4,3925.03,3350,Ricardo,SP,Boleto
+2025-06-13,1245,Felipe Santos,SSD 1TB,Hardware,1,484.8,310,Juliana,PR,PIX
+2025-12-31,1246,Beatriz Rocha,Mouse Logitech,Periféricos,3,120.21,70,Carlos,ES,PIX
+2025-05-02,1247,Gabriel Costa,Monitor LG 24,Informática,1,952.74,700,Patrícia,SC,Cartão
+2025-10-10,1248,Lucas Lima,Impressora HP,Informática,1,812.7,650,Ricardo,GO,Boleto
+2025-07-30,1249,Gabriel Costa,Memória RAM 16GB,Hardware,5,292.72,210,Juliana,SP,Cartão
+2025-08-27,1250,Felipe Santos,Webcam HD,Periféricos,3,166.62,95,Patrícia,MG,PIX
+2025-08-10,1251,Rafael Gomes,Notebook Dell,Informática,1,4516.29,3600,Juliana,MG,PIX
+2025-06-15,1252,Thiago Souza,Teclado Mecânico,Periféricos,3,305.06,180,Patrícia,PR,PIX
+2025-05-09,1253,Ana Costa,Webcam HD,Periféricos,3,166.51,95,Juliana,SP,Boleto
+2025-11-25,1254,Lucas Lima,Impressora HP,Informática,5,828.45,650,Patrícia,SC,Boleto
+2025-01-22,1255,Larissa Lima,Notebook Dell,Informática,1,4090.92,3600,Patrícia,PR,Boleto
+2025-04-18,1256,Gabriel Costa,Impressora HP,Informática,4,911.02,650,Carlos,GO,Boleto
+2025-10-07,1257,Pedro Alves,Headset Gamer,Periféricos,4,332.14,220,Ricardo,PR,Cartão
+2025-02-07,1258,Beatriz Rocha,Notebook Dell,Informática,2,4445.64,3600,Ricardo,GO,PIX
+2025-06-24,1259,Mariana Melo,Mouse Logitech,Periféricos,3,128.68,70,Juliana,SC,Cartão
+2025-03-08,1260,Gabriel Costa,SSD 1TB,Hardware,5,485.92,310,Juliana,ES,Cartão
+2025-03-04,1261,Pedro Alves,Monitor LG 24,Informática,2,909.61,700,Carlos,PR,Cartão
+2025-11-12,1262,Bruno Rocha,Teclado Mecânico,Periféricos,2,297.55,180,Patrícia,SC,PIX
+2025-03-23,1263,Camila Dias,Webcam HD,Periféricos,4,179.96,95,Juliana,GO,PIX
+2025-02-16,1264,Bruno Rocha,Webcam HD,Periféricos,4,196.8,95,Fernanda,SC,PIX
+2025-01-26,1265,Pedro Alves,Monitor LG 24,Informática,5,1054.94,700,Ricardo,PR,Boleto
+2025-01-05,1266,Larissa Lima,Notebook Lenovo,Informática,4,3892.51,3350,Juliana,SC,Cartão
+2025-07-07,1267,João Silva,Memória RAM 16GB,Hardware,1,324.5,210,Fernanda,SC,Boleto
+2025-05-28,1268,Maria Souza,Memória RAM 16GB,Hardware,5,316.82,210,Patrícia,PR,Boleto
+2025-12-15,1269,Mariana Melo,Notebook Lenovo,Informática,2,4599.07,3350,Ricardo,SC,Cartão
+2025-10-13,1270,Julia Martins,Mouse Logitech,Periféricos,2,122.46,70,Ricardo,RJ,PIX
+2025-01-20,1271,Lucas Lima,SSD 1TB,Hardware,4,481.86,310,Fernanda,MG,Cartão
+2025-11-10,1272,Julia Martins,Mouse Logitech,Periféricos,4,131.77,70,Juliana,SC,Boleto
+2025-09-18,1273,Rafael Gomes,Monitor LG 24,Informática,5,940.76,700,Carlos,SC,Cartão
+2025-12-11,1274,Maria Souza,Memória RAM 16GB,Hardware,5,307.69,210,Carlos,GO,Cartão
+2025-12-02,1275,Gabriel Costa,Impressora HP,Informática,5,841.5,650,Carlos,GO,PIX
+2025-09-26,1276,Felipe Santos,Impressora HP,Informática,4,827.3,650,Fernanda,RJ,Boleto
+2025-12-25,1277,Maria Souza,Teclado Mecânico,Periféricos,1,276.7,180,Ricardo,MG,Cartão
+2025-12-20,1278,Ana Costa,Memória RAM 16GB,Hardware,5,337.6,210,Ricardo,RJ,Boleto
+2025-03-12,1279,Rafael Gomes,Teclado Mecânico,Periféricos,5,270.2,180,Ricardo,BA,Cartão
+2025-03-30,1280,Camila Dias,Webcam HD,Periféricos,3,181.67,95,Juliana,GO,PIX
+2025-05-07,1281,Pedro Alves,Webcam HD,Periféricos,3,170.1,95,Juliana,PR,Boleto
+2025-04-17,1282,Beatriz Rocha,Monitor LG 24,Informática,3,976.04,700,Patrícia,PR,Cartão
+2025-03-04,1283,Mariana Melo,Webcam HD,Periféricos,4,194.25,95,Ricardo,SC,PIX
+2025-05-29,1284,João Silva,Headset Gamer,Periféricos,1,339.25,220,Ricardo,PR,Boleto
+2025-09-03,1285,Ana Costa,Teclado Mecânico,Periféricos,5,267.18,180,Patrícia,PR,PIX
+2025-02-25,1286,Mariana Melo,Impressora HP,Informática,2,844.16,650,Patrícia,ES,Boleto
+2025-04-30,1287,João Silva,Notebook Lenovo,Informática,4,4057.45,3350,Ricardo,SP,Boleto
+2025-03-12,1288,João Silva,Webcam HD,Periféricos,2,176.65,95,Ricardo,GO,Boleto
+2025-04-13,1289,Gabriel Costa,Headset Gamer,Periféricos,3,334.98,220,Carlos,SP,Boleto
+2025-10-21,1290,Ana Costa,Webcam HD,Periféricos,1,194.88,95,Fernanda,BA,PIX
+2025-01-19,1291,Larissa Lima,Memória RAM 16GB,Hardware,4,299.92,210,Juliana,RJ,PIX
+2025-06-02,1292,Mariana Melo,Impressora HP,Informática,1,966.26,650,Juliana,PR,Cartão
+2025-11-25,1293,Rafael Gomes,Webcam HD,Periféricos,4,194.01,95,Fernanda,GO,Cartão
+2025-04-09,1294,Gabriel Costa,Notebook Lenovo,Informática,3,3916.5,3350,Ricardo,PR,Boleto
+2025-04-06,1295,João Silva,SSD 1TB,Hardware,3,486.51,310,Fernanda,MG,Boleto
+2025-11-24,1296,Thiago Souza,Memória RAM 16GB,Hardware,4,320.98,210,Carlos,BA,Boleto
+2025-02-18,1297,Lucas Lima,Mouse Logitech,Periféricos,4,115.77,70,Fernanda,RJ,Cartão
+2025-07-16,1298,Ana Costa,Monitor LG 24,Informática,3,1068.99,700,Juliana,RJ,Cartão
+2025-12-01,1299,Julia Martins,Teclado Mecânico,Periféricos,1,289.4,180,Ricardo,PR,PIX
+2025-07-27,1300,Felipe Santos,Webcam HD,Periféricos,3,186.85,95,Juliana,SC,Boleto
+2025-04-24,1301,Ana Costa,Mouse Logitech,Periféricos,4,111.68,70,Patrícia,SC,Cartão
+2025-12-26,1302,Rafael Gomes,Monitor LG 24,Informática,5,1039.19,700,Fernanda,ES,Boleto
+2025-11-02,1303,Larissa Lima,Notebook Lenovo,Informática,5,4155.27,3350,Juliana,SP,Boleto
+2025-02-27,1304,João Silva,Webcam HD,Periféricos,5,169.28,95,Patrícia,MG,PIX
+2025-06-17,1305,Larissa Lima,Webcam HD,Periféricos,4,166.18,95,Fernanda,GO,PIX
+2025-09-19,1306,Camila Dias,Notebook Dell,Informática,4,4168.75,3600,Ricardo,GO,Boleto
+2025-01-30,1307,Rafael Gomes,Monitor LG 24,Informática,3,1023.76,700,Ricardo,PR,PIX
+2025-04-22,1308,Mariana Melo,Notebook Lenovo,Informática,1,4135.91,3350,Carlos,RJ,PIX
+2025-08-30,1309,João Silva,Headset Gamer,Periféricos,4,327.6,220,Fernanda,BA,Cartão
+2025-07-15,1310,Camila Dias,Memória RAM 16GB,Hardware,4,293.14,210,Patrícia,MG,Boleto
+2025-06-28,1311,Maria Souza,Mouse Logitech,Periféricos,5,117.43,70,Fernanda,ES,PIX
+2025-01-12,1312,Pedro Alves,Monitor LG 24,Informática,5,965.13,700,Ricardo,ES,PIX
+2025-08-24,1313,Julia Martins,Mouse Logitech,Periféricos,3,112.52,70,Carlos,RJ,Boleto
+2025-08-03,1314,Mariana Melo,Notebook Dell,Informática,2,4235.47,3600,Carlos,RJ,Cartão
+2025-11-03,1315,Felipe Santos,Notebook Dell,Informática,2,4716.49,3600,Ricardo,GO,PIX
+2025-10-04,1316,Ana Costa,Notebook Dell,Informática,2,4503.51,3600,Juliana,ES,Boleto
+2025-10-22,1317,Julia Martins,Impressora HP,Informática,5,938.51,650,Juliana,ES,Cartão
+2025-03-15,1318,Felipe Santos,Webcam HD,Periféricos,2,176.89,95,Juliana,RJ,Boleto
+2025-10-30,1319,Thiago Souza,Mouse Logitech,Periféricos,4,121.34,70,Carlos,SC,Boleto
+2025-12-10,1320,Bruno Rocha,Webcam HD,Periféricos,3,187.07,95,Ricardo,MG,Cartão
+2025-07-12,1321,Lucas Lima,Webcam HD,Periféricos,4,170.67,95,Fernanda,PR,Boleto
+2025-03-15,1322,Gabriel Costa,Monitor LG 24,Informática,1,992.23,700,Ricardo,MG,Cartão
+2025-05-05,1323,Pedro Alves,Teclado Mecânico,Periféricos,3,288.22,180,Ricardo,SC,PIX
+2025-10-02,1324,Beatriz Rocha,Teclado Mecânico,Periféricos,1,267.03,180,Patrícia,RJ,PIX
+2025-04-07,1325,Gabriel Costa,Impressora HP,Informática,5,839.63,650,Fernanda,SC,Cartão
+2025-01-08,1326,Ana Costa,Teclado Mecânico,Periféricos,1,293.83,180,Ricardo,ES,Boleto
+2025-11-06,1327,Beatriz Rocha,Teclado Mecânico,Periféricos,4,303.25,180,Patrícia,SC,Cartão
+2025-07-14,1328,Camila Dias,Webcam HD,Periféricos,3,173.1,95,Juliana,GO,Cartão
+2025-02-20,1329,Gabriel Costa,Monitor LG 24,Informática,3,1061.21,700,Juliana,SC,Cartão
+2025-01-24,1330,Mariana Melo,Teclado Mecânico,Periféricos,2,252.91,180,Patrícia,BA,Cartão
+2025-03-20,1331,Ana Costa,SSD 1TB,Hardware,2,468.46,310,Fernanda,GO,Boleto
+2025-12-02,1332,Felipe Santos,SSD 1TB,Hardware,3,505.28,310,Ricardo,GO,Cartão
+2025-03-28,1333,Beatriz Rocha,SSD 1TB,Hardware,2,445.44,310,Patrícia,GO,PIX
+2025-10-05,1334,Felipe Santos,Notebook Dell,Informática,5,4080.44,3600,Carlos,RJ,PIX
+2025-07-31,1335,Lucas Lima,Teclado Mecânico,Periféricos,1,291.6,180,Carlos,ES,Boleto
+2025-08-22,1336,Julia Martins,Notebook Dell,Informática,5,4623.96,3600,Patrícia,GO,Boleto
+2025-09-07,1337,João Silva,Notebook Dell,Informática,5,4546.48,3600,Carlos,RJ,Boleto
+2025-05-21,1338,Rafael Gomes,Headset Gamer,Periféricos,1,350.16,220,Ricardo,MG,PIX
+2025-02-19,1339,Rafael Gomes,Mouse Logitech,Periféricos,2,112.61,70,Patrícia,PR,Cartão
+2025-05-17,1340,Gabriel Costa,Memória RAM 16GB,Hardware,1,311.88,210,Ricardo,GO,Boleto
+2025-05-05,1341,Beatriz Rocha,Teclado Mecânico,Periféricos,3,290.31,180,Carlos,RJ,PIX
+2025-07-27,1342,Bruno Rocha,Memória RAM 16GB,Hardware,5,318.46,210,Carlos,MG,PIX
+2025-09-13,1343,Larissa Lima,Memória RAM 16GB,Hardware,3,324.21,210,Carlos,RJ,PIX
+2025-04-19,1344,Thiago Souza,Impressora HP,Informática,4,849.25,650,Carlos,PR,Boleto
+2025-10-16,1345,Felipe Santos,Notebook Dell,Informática,2,4885.89,3600,Juliana,RJ,PIX
+2025-10-28,1346,Lucas Lima,Memória RAM 16GB,Hardware,1,307.15,210,Patrícia,ES,Boleto
+2025-07-19,1347,Felipe Santos,Webcam HD,Periféricos,3,175.82,95,Fernanda,SP,Boleto
+2025-06-27,1348,João Silva,Notebook Lenovo,Informática,4,3975.0,3350,Carlos,SC,Boleto
+2025-11-11,1349,Mariana Melo,Memória RAM 16GB,Hardware,3,289.9,210,Juliana,GO,Cartão
+2025-04-27,1350,Julia Martins,Webcam HD,Periféricos,4,177.55,95,Patrícia,BA,PIX
+2025-11-13,1351,Pedro Alves,Teclado Mecânico,Periféricos,1,256.59,180,Fernanda,BA,Boleto
+2025-11-21,1352,Lucas Lima,Memória RAM 16GB,Hardware,3,311.08,210,Carlos,RJ,Cartão
+2025-08-16,1353,Julia Martins,Headset Gamer,Periféricos,1,324.28,220,Fernanda,BA,Cartão
+2025-10-13,1354,Rafael Gomes,Webcam HD,Periféricos,4,165.72,95,Carlos,SC,Boleto
+2025-02-17,1355,Mariana Melo,Impressora HP,Informática,3,954.74,650,Carlos,PR,Cartão
+2025-07-18,1356,Gabriel Costa,Notebook Lenovo,Informática,5,4540.37,3350,Fernanda,MG,Boleto
+2025-07-14,1357,Lucas Lima,Mouse Logitech,Periféricos,3,115.23,70,Ricardo,MG,PIX
+2025-03-27,1358,Bruno Rocha,Headset Gamer,Periféricos,4,335.98,220,Carlos,SC,Cartão
+2025-05-07,1359,Beatriz Rocha,Monitor LG 24,Informática,5,1002.87,700,Ricardo,SP,PIX
+2025-06-05,1360,João Silva,Memória RAM 16GB,Hardware,3,341.86,210,Ricardo,SC,Cartão
+2025-06-21,1361,Bruno Rocha,Impressora HP,Informática,2,854.48,650,Patrícia,ES,Cartão
+2025-06-10,1362,Lucas Lima,Memória RAM 16GB,Hardware,3,306.65,210,Ricardo,ES,Cartão
+2025-07-12,1363,Pedro Alves,Memória RAM 16GB,Hardware,3,295.29,210,Patrícia,ES,Boleto
+2025-10-07,1364,Lucas Lima,Webcam HD,Periféricos,1,196.31,95,Ricardo,ES,Cartão
+2025-05-30,1365,Larissa Lima,Notebook Lenovo,Informática,4,4345.3,3350,Fernanda,PR,PIX
+2025-05-10,1366,Felipe Santos,Mouse Logitech,Periféricos,4,126.94,70,Carlos,GO,Boleto
+2025-09-03,1367,Mariana Melo,Memória RAM 16GB,Hardware,5,320.42,210,Ricardo,RJ,Cartão
+2025-12-26,1368,Thiago Souza,Webcam HD,Periféricos,5,184.97,95,Carlos,SP,PIX
+2025-12-03,1369,Felipe Santos,SSD 1TB,Hardware,2,494.11,310,Carlos,BA,Cartão
+2025-08-09,1370,Maria Souza,Notebook Dell,Informática,1,4282.86,3600,Patrícia,ES,Cartão
+2025-07-11,1371,Bruno Rocha,Monitor LG 24,Informática,5,1017.33,700,Fernanda,SC,PIX
+2025-09-05,1372,Maria Souza,Headset Gamer,Periféricos,4,379.44,220,Carlos,SP,Boleto
+2025-03-14,1373,Julia Martins,Headset Gamer,Periféricos,3,346.87,220,Fernanda,GO,Cartão
+2025-09-01,1374,Maria Souza,Monitor LG 24,Informática,4,944.51,700,Juliana,RJ,Boleto
+2025-02-28,1375,João Silva,SSD 1TB,Hardware,1,497.01,310,Fernanda,ES,Boleto
+2025-03-31,1376,Rafael Gomes,Mouse Logitech,Periféricos,3,121.44,70,Ricardo,ES,Cartão
+2025-11-19,1377,Lucas Lima,Mouse Logitech,Periféricos,4,117.49,70,Patrícia,ES,Cartão
+2025-10-31,1378,Bruno Rocha,Memória RAM 16GB,Hardware,1,333.1,210,Fernanda,PR,Boleto
+2025-02-02,1379,Mariana Melo,Notebook Lenovo,Informática,5,3937.05,3350,Juliana,ES,Cartão
+2025-02-28,1380,Pedro Alves,Monitor LG 24,Informática,5,1071.32,700,Juliana,BA,Boleto
+2025-07-20,1381,Mariana Melo,Notebook Lenovo,Informática,3,4075.67,3350,Ricardo,MG,Boleto
+2025-12-28,1382,Gabriel Costa,Headset Gamer,Periféricos,5,356.31,220,Fernanda,SC,PIX
+2025-05-03,1383,Pedro Alves,Notebook Lenovo,Informática,2,4093.58,3350,Fernanda,BA,Cartão
+2025-11-02,1384,Lucas Lima,Impressora HP,Informática,4,876.3,650,Ricardo,MG,Boleto
+2025-03-27,1385,Camila Dias,Headset Gamer,Periféricos,2,328.1,220,Ricardo,RJ,Cartão
+2025-01-05,1386,Camila Dias,Mouse Logitech,Periféricos,2,127.57,70,Patrícia,GO,Cartão
+2025-12-17,1387,Camila Dias,Memória RAM 16GB,Hardware,4,319.28,210,Carlos,RJ,PIX
+2025-05-30,1388,João Silva,Headset Gamer,Periféricos,2,352.63,220,Fernanda,GO,Boleto
+2025-09-11,1389,Rafael Gomes,Webcam HD,Periféricos,1,182.62,95,Juliana,SC,Boleto
+2025-01-22,1390,Gabriel Costa,Monitor LG 24,Informática,5,924.83,700,Ricardo,SP,Boleto
+2025-12-01,1391,Gabriel Costa,Teclado Mecânico,Periféricos,3,300.99,180,Carlos,GO,Cartão
+2025-06-28,1392,Larissa Lima,Notebook Lenovo,Informática,4,4506.84,3350,Carlos,ES,PIX
+2025-10-29,1393,Beatriz Rocha,SSD 1TB,Hardware,5,492.75,310,Fernanda,MG,PIX
+2025-04-16,1394,Gabriel Costa,Notebook Dell,Informática,5,4365.73,3600,Juliana,MG,Cartão
+2025-12-27,1395,Pedro Alves,Headset Gamer,Periféricos,5,333.71,220,Patrícia,SP,PIX
+2025-07-30,1396,Thiago Souza,Notebook Dell,Informática,3,4830.34,3600,Fernanda,MG,PIX
+2025-03-16,1397,Beatriz Rocha,SSD 1TB,Hardware,2,505.1,310,Ricardo,GO,PIX
+2025-10-23,1398,Felipe Santos,Headset Gamer,Periféricos,4,341.26,220,Carlos,SP,Cartão
+2025-09-21,1399,Beatriz Rocha,Headset Gamer,Periféricos,3,346.83,220,Ricardo,SC,Boleto
+2025-01-02,1400,Larissa Lima,Notebook Lenovo,Informática,4,4313.27,3350,Juliana,SP,Boleto
+2025-07-23,1401,Ana Costa,Memória RAM 16GB,Hardware,2,319.66,210,Juliana,PR,Cartão
+2025-10-08,1402,Mariana Melo,Mouse Logitech,Periféricos,5,128.46,70,Juliana,RJ,PIX
+2025-02-20,1403,Felipe Santos,Monitor LG 24,Informática,1,906.35,700,Fernanda,GO,Cartão
+2025-01-01,1404,Bruno Rocha,Teclado Mecânico,Periféricos,2,301.4,180,Juliana,MG,Cartão
+2025-02-17,1405,Felipe Santos,SSD 1TB,Hardware,3,439.91,310,Fernanda,RJ,Cartão
+2025-11-17,1406,Pedro Alves,Teclado Mecânico,Periféricos,4,288.71,180,Carlos,RJ,PIX
+2025-09-02,1407,Maria Souza,Mouse Logitech,Periféricos,5,113.43,70,Ricardo,RJ,PIX
+2025-12-23,1408,Julia Martins,Notebook Lenovo,Informática,4,4362.99,3350,Ricardo,SP,PIX
+2025-07-16,1409,Maria Souza,Notebook Lenovo,Informática,1,4043.22,3350,Juliana,MG,Cartão
+2025-03-10,1410,Felipe Santos,Mouse Logitech,Periféricos,1,120.73,70,Carlos,MG,Cartão
+2025-06-29,1411,Beatriz Rocha,Teclado Mecânico,Periféricos,2,303.51,180,Patrícia,GO,PIX
+2025-02-14,1412,Thiago Souza,Notebook Lenovo,Informática,2,4412.05,3350,Patrícia,BA,Cartão
+2025-08-08,1413,Julia Martins,Mouse Logitech,Periféricos,2,114.65,70,Carlos,ES,Boleto
+2025-11-04,1414,Mariana Melo,Impressora HP,Informática,3,939.66,650,Carlos,PR,PIX
+2025-09-23,1415,Mariana Melo,Webcam HD,Periféricos,2,188.92,95,Juliana,RJ,PIX
+2025-09-11,1416,Bruno Rocha,Notebook Lenovo,Informática,2,4199.65,3350,Patrícia,SP,Boleto
+2025-01-07,1417,Julia Martins,SSD 1TB,Hardware,2,469.14,310,Patrícia,BA,Cartão
+2025-10-07,1418,Felipe Santos,Mouse Logitech,Periféricos,4,130.91,70,Carlos,RJ,Boleto
+2025-02-04,1419,João Silva,Headset Gamer,Periféricos,2,317.79,220,Carlos,BA,Boleto
+2025-05-27,1420,Felipe Santos,Webcam HD,Periféricos,4,177.25,95,Ricardo,SP,Boleto
+2025-10-02,1421,Rafael Gomes,Impressora HP,Informática,2,850.39,650,Juliana,SP,Boleto
+2025-04-15,1422,Gabriel Costa,Mouse Logitech,Periféricos,5,115.84,70,Patrícia,SP,Cartão
+2025-12-24,1423,Bruno Rocha,Teclado Mecânico,Periféricos,1,265.69,180,Ricardo,SP,Cartão
+2025-11-10,1424,Mariana Melo,Notebook Dell,Informática,3,4649.47,3600,Fernanda,SP,PIX
+2025-12-29,1425,Lucas Lima,Notebook Dell,Informática,2,4496.77,3600,Juliana,PR,PIX
+2025-07-10,1426,Lucas Lima,Headset Gamer,Periféricos,1,369.0,220,Carlos,SC,Cartão
+2025-05-20,1427,Rafael Gomes,Notebook Lenovo,Informática,3,4378.35,3350,Patrícia,SP,Cartão
+2025-08-22,1428,Rafael Gomes,SSD 1TB,Hardware,1,479.96,310,Patrícia,MG,Cartão
+2025-03-22,1429,Pedro Alves,Notebook Lenovo,Informática,5,4346.26,3350,Carlos,ES,Boleto
+2025-09-18,1430,João Silva,Notebook Dell,Informática,1,4270.1,3600,Ricardo,SC,Cartão
+2025-03-18,1431,Lucas Lima,Notebook Dell,Informática,5,4772.8,3600,Ricardo,ES,Cartão
+2025-05-08,1432,Bruno Rocha,SSD 1TB,Hardware,3,511.3,310,Patrícia,SC,PIX
+2025-09-15,1433,Felipe Santos,Notebook Dell,Informática,2,4250.87,3600,Patrícia,RJ,Cartão
+2025-02-05,1434,Thiago Souza,Monitor LG 24,Informática,3,1033.61,700,Juliana,SC,PIX
+2025-10-11,1435,Camila Dias,Notebook Dell,Informática,3,4230.6,3600,Patrícia,PR,Boleto
+2025-11-15,1436,Ana Costa,Monitor LG 24,Informática,3,997.97,700,Ricardo,ES,Boleto
+2025-10-07,1437,Gabriel Costa,Teclado Mecânico,Periféricos,2,252.36,180,Ricardo,RJ,PIX
+2025-10-05,1438,Julia Martins,Notebook Dell,Informática,3,4051.32,3600,Ricardo,PR,PIX
+2025-04-16,1439,Rafael Gomes,Teclado Mecânico,Periféricos,4,279.55,180,Carlos,MG,Boleto
+2025-05-24,1440,Maria Souza,Notebook Dell,Informática,2,4857.56,3600,Patrícia,BA,Boleto
+2025-07-10,1441,Camila Dias,Notebook Lenovo,Informática,5,3860.28,3350,Fernanda,BA,PIX
+2025-10-31,1442,Mariana Melo,Notebook Dell,Informática,4,4646.2,3600,Fernanda,ES,Cartão
+2025-05-14,1443,Larissa Lima,SSD 1TB,Hardware,4,499.27,310,Juliana,SC,Cartão
+2025-05-20,1444,Ana Costa,Notebook Lenovo,Informática,2,3894.33,3350,Patrícia,SP,PIX
+2025-02-24,1445,Lucas Lima,Monitor LG 24,Informática,4,943.55,700,Carlos,SC,PIX
+2025-08-20,1446,Pedro Alves,Monitor LG 24,Informática,3,1049.09,700,Carlos,MG,Boleto
+2025-06-05,1447,Larissa Lima,Impressora HP,Informática,1,839.27,650,Juliana,MG,PIX
+2025-12-31,1448,Ana Costa,SSD 1TB,Hardware,4,481.29,310,Juliana,PR,PIX
+2025-01-16,1449,Bruno Rocha,Monitor LG 24,Informática,5,1028.62,700,Fernanda,SP,Cartão
+2025-02-22,1450,Gabriel Costa,Mouse Logitech,Periféricos,1,108.29,70,Fernanda,MG,PIX
+2025-07-25,1451,Julia Martins,Notebook Lenovo,Informática,5,4272.34,3350,Carlos,RJ,PIX
+2025-04-12,1452,Thiago Souza,Monitor LG 24,Informática,2,900.03,700,Juliana,SP,PIX
+2025-08-25,1453,João Silva,Mouse Logitech,Periféricos,5,118.4,70,Ricardo,GO,PIX
+2025-07-15,1454,Felipe Santos,Memória RAM 16GB,Hardware,2,310.65,210,Fernanda,PR,Cartão
+2025-08-17,1455,Thiago Souza,Mouse Logitech,Periféricos,1,122.74,70,Patrícia,ES,Boleto
+2025-06-01,1456,Camila Dias,Memória RAM 16GB,Hardware,5,318.66,210,Carlos,PR,Cartão
+2025-03-12,1457,Bruno Rocha,Teclado Mecânico,Periféricos,5,265.95,180,Patrícia,RJ,Cartão
+2025-07-03,1458,Camila Dias,Webcam HD,Periféricos,4,174.39,95,Patrícia,SC,Cartão
+2025-05-19,1459,Lucas Lima,Notebook Dell,Informática,3,4587.4,3600,Carlos,PR,PIX
+2025-08-30,1460,Rafael Gomes,SSD 1TB,Hardware,5,527.96,310,Fernanda,SP,PIX
+2025-12-03,1461,Ana Costa,Headset Gamer,Periféricos,5,372.14,220,Carlos,ES,Boleto
+2025-07-18,1462,Julia Martins,Mouse Logitech,Periféricos,2,113.68,70,Juliana,SC,Boleto
+2025-01-15,1463,Beatriz Rocha,SSD 1TB,Hardware,5,486.11,310,Patrícia,ES,Cartão
+2025-10-05,1464,Pedro Alves,Mouse Logitech,Periféricos,4,108.91,70,Carlos,ES,Boleto
+2025-04-23,1465,João Silva,Webcam HD,Periféricos,4,162.02,95,Patrícia,ES,PIX
+2025-06-24,1466,Beatriz Rocha,Mouse Logitech,Periféricos,3,109.43,70,Fernanda,MG,PIX
+2025-09-27,1467,Larissa Lima,SSD 1TB,Hardware,1,467.86,310,Ricardo,SP,Cartão
+2025-06-04,1468,Julia Martins,Mouse Logitech,Periféricos,2,125.58,70,Ricardo,GO,Boleto
+2025-06-12,1469,Lucas Lima,Webcam HD,Periféricos,5,190.33,95,Fernanda,MG,Cartão
+2025-06-07,1470,Beatriz Rocha,Headset Gamer,Periféricos,2,327.44,220,Carlos,BA,Boleto
+2025-01-17,1471,Lucas Lima,Impressora HP,Informática,3,964.94,650,Patrícia,ES,Boleto
+2025-10-17,1472,Maria Souza,Monitor LG 24,Informática,2,946.91,700,Carlos,ES,Cartão
+2025-06-13,1473,Lucas Lima,Notebook Lenovo,Informática,3,4155.17,3350,Juliana,ES,PIX
+2025-12-21,1474,Maria Souza,SSD 1TB,Hardware,3,507.55,310,Carlos,RJ,Cartão
+2025-08-13,1475,Beatriz Rocha,Memória RAM 16GB,Hardware,2,344.61,210,Ricardo,BA,Cartão
+2025-10-07,1476,Bruno Rocha,Notebook Lenovo,Informática,4,4442.53,3350,Patrícia,ES,PIX
+2025-08-20,1477,Maria Souza,Notebook Dell,Informática,3,4068.07,3600,Juliana,SP,PIX
+2025-06-25,1478,Lucas Lima,Memória RAM 16GB,Hardware,2,334.85,210,Patrícia,SP,Cartão
+2025-11-01,1479,Mariana Melo,Monitor LG 24,Informática,1,966.54,700,Fernanda,BA,PIX
+2025-01-28,1480,Maria Souza,SSD 1TB,Hardware,2,525.54,310,Ricardo,PR,Boleto
+2025-05-25,1481,Pedro Alves,Teclado Mecânico,Periféricos,1,254.78,180,Patrícia,GO,PIX
+2025-01-28,1482,Julia Martins,Notebook Dell,Informática,4,4128.87,3600,Patrícia,GO,PIX
+2025-02-19,1483,João Silva,Teclado Mecânico,Periféricos,2,287.74,180,Carlos,GO,PIX
+2025-06-07,1484,Gabriel Costa,Memória RAM 16GB,Hardware,4,319.3,210,Juliana,SP,Boleto
+2025-10-06,1485,Bruno Rocha,Mouse Logitech,Periféricos,3,129.25,70,Juliana,MG,Cartão
+2025-01-23,1486,Pedro Alves,Monitor LG 24,Informática,4,933.63,700,Juliana,RJ,PIX
+2025-12-23,1487,Felipe Santos,Notebook Lenovo,Informática,1,4341.24,3350,Patrícia,BA,Boleto
+2025-04-27,1488,Rafael Gomes,Notebook Dell,Informática,4,4786.56,3600,Ricardo,GO,Boleto
+2025-05-01,1489,Camila Dias,Headset Gamer,Periféricos,1,342.64,220,Carlos,MG,PIX
+2025-08-18,1490,Lucas Lima,Mouse Logitech,Periféricos,2,127.4,70,Fernanda,RJ,Cartão
+2025-02-10,1491,Felipe Santos,Memória RAM 16GB,Hardware,2,351.83,210,Fernanda,PR,Cartão
+2025-02-04,1492,Maria Souza,Memória RAM 16GB,Hardware,5,313.43,210,Juliana,PR,Boleto
+2025-08-23,1493,Thiago Souza,Notebook Dell,Informática,5,4578.82,3600,Ricardo,SP,Cartão
+2025-03-18,1494,Lucas Lima,Impressora HP,Informática,5,904.72,650,Carlos,SP,Boleto
+2025-02-21,1495,Gabriel Costa,Headset Gamer,Periféricos,5,376.61,220,Ricardo,PR,Cartão
+2025-12-02,1496,Camila Dias,Impressora HP,Informática,5,885.2,650,Fernanda,PR,Cartão
+2025-03-15,1497,Mariana Melo,Impressora HP,Informática,4,807.9,650,Juliana,ES,PIX
+2025-09-01,1498,Thiago Souza,Headset Gamer,Periféricos,3,316.42,220,Juliana,PR,Cartão
+2025-09-09,1499,Larissa Lima,Notebook Lenovo,Informática,2,3892.88,3350,Ricardo,SC,Cartão
+2025-08-02,1500,Mariana Melo,Notebook Lenovo,Informática,2,4151.04,3350,Ricardo,GO,Boleto
